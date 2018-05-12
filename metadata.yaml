@@ -1,0 +1,30 @@
+_repo: Lidewyde_31753
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31753-h/images/cover_b.png
+creator:
+  author:
+    agent_name: Busken Huet, Conrad
+    aliases:
+    - Huet, Conrad Busken
+    - Huet, Cd. (Conrad) Busken
+    - Huet, Coenraad Busken
+    birthdate: 1826
+    deathdate: 1886
+    gutenberg_agent_id: '35447'
+    url: http://www.gutenberg.org/2009/agents/35447
+description: ''
+gutenberg_issued: '2010-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31753'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: Lidewyde
+url: http://www.gutenberg.org/ebooks/31753
